@@ -19,6 +19,7 @@
 		2AD18B2E1E7C4E41009BFF2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AD18B2C1E7C4E41009BFF2F /* LaunchScreen.storyboard */; };
 		2AD18B391E7C4E42009BFF2F /* WhatsApp_copyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD18B381E7C4E42009BFF2F /* WhatsApp_copyTests.swift */; };
 		2AD18B441E7C4E42009BFF2F /* WhatsApp_copyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD18B431E7C4E42009BFF2F /* WhatsApp_copyUITests.swift */; };
+		2AE38AB21ED8A04B00E81711 /* settingCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE38AB11ED8A04B00E81711 /* settingCustomCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		2AD18B3F1E7C4E42009BFF2F /* WhatsApp copyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WhatsApp copyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2AD18B431E7C4E42009BFF2F /* WhatsApp_copyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsApp_copyUITests.swift; sourceTree = "<group>"; };
 		2AD18B451E7C4E42009BFF2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AE38AB11ED8A04B00E81711 /* settingCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = settingCustomCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +115,9 @@
 				2ACE26631E7EA18A0017B229 /* CameraVC.swift */,
 				2AD18B251E7C4E41009BFF2F /* chats.swift */,
 				2ACE26651E7EA19C0017B229 /* SettingsVC.swift */,
-				2AD18B271E7C4E41009BFF2F /* Main.storyboard */,
+				2AE38AB11ED8A04B00E81711 /* settingCustomCell.swift */,
 				2A746A061ECF4EE000AD0441 /* customChatTableViewCell.swift */,
+				2AD18B271E7C4E41009BFF2F /* Main.storyboard */,
 				2AD18B2A1E7C4E41009BFF2F /* Assets.xcassets */,
 				2AD18B2C1E7C4E41009BFF2F /* LaunchScreen.storyboard */,
 				2AD18B2F1E7C4E41009BFF2F /* Info.plist */,
@@ -278,6 +281,7 @@
 				2AD18B261E7C4E41009BFF2F /* chats.swift in Sources */,
 				2ACE26621E7EA15F0017B229 /* Calls.swift in Sources */,
 				2ACE26641E7EA18A0017B229 /* CameraVC.swift in Sources */,
+				2AE38AB21ED8A04B00E81711 /* settingCustomCell.swift in Sources */,
 				2ACE26601E7EA1460017B229 /* StatusVC.swift in Sources */,
 				2AD18B241E7C4E41009BFF2F /* AppDelegate.swift in Sources */,
 				2ACE26661E7EA19C0017B229 /* SettingsVC.swift in Sources */,
