@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A5C504C1EE3F4D600CDD535 /* statusCustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A5C504B1EE3F4D600CDD535 /* statusCustomCell.swift */; };
 		2A746A071ECF4EE000AD0441 /* customChatTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A746A061ECF4EE000AD0441 /* customChatTableViewCell.swift */; };
 		2ACE26601E7EA1460017B229 /* StatusVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACE265F1E7EA1460017B229 /* StatusVC.swift */; };
 		2ACE26621E7EA15F0017B229 /* Calls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2ACE26611E7EA15F0017B229 /* Calls.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2A5C504B1EE3F4D600CDD535 /* statusCustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = statusCustomCell.swift; sourceTree = "<group>"; };
 		2A746A061ECF4EE000AD0441 /* customChatTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customChatTableViewCell.swift; sourceTree = "<group>"; };
 		2ACE265F1E7EA1460017B229 /* StatusVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatusVC.swift; sourceTree = "<group>"; };
 		2ACE26611E7EA15F0017B229 /* Calls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calls.swift; sourceTree = "<group>"; };
@@ -117,6 +119,7 @@
 				2ACE26651E7EA19C0017B229 /* SettingsVC.swift */,
 				2AE38AB11ED8A04B00E81711 /* settingCustomCell.swift */,
 				2A746A061ECF4EE000AD0441 /* customChatTableViewCell.swift */,
+				2A5C504B1EE3F4D600CDD535 /* statusCustomCell.swift */,
 				2AD18B271E7C4E41009BFF2F /* Main.storyboard */,
 				2AD18B2A1E7C4E41009BFF2F /* Assets.xcassets */,
 				2AD18B2C1E7C4E41009BFF2F /* LaunchScreen.storyboard */,
@@ -281,6 +284,7 @@
 				2AD18B261E7C4E41009BFF2F /* chats.swift in Sources */,
 				2ACE26621E7EA15F0017B229 /* Calls.swift in Sources */,
 				2ACE26641E7EA18A0017B229 /* CameraVC.swift in Sources */,
+				2A5C504C1EE3F4D600CDD535 /* statusCustomCell.swift in Sources */,
 				2AE38AB21ED8A04B00E81711 /* settingCustomCell.swift in Sources */,
 				2ACE26601E7EA1460017B229 /* StatusVC.swift in Sources */,
 				2AD18B241E7C4E41009BFF2F /* AppDelegate.swift in Sources */,
